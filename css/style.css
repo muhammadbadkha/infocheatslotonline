@@ -893,6 +893,11 @@ h4 {
 	transform-origin: 70% 70%;
 	display: inline-block;
   }
+a {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: medium;
+	color:whitesmoke;
+}
   
   @keyframes wave-animation {
 	  0% { transform: rotate( 0.0deg) }
